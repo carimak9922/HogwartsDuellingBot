@@ -42,7 +42,7 @@ WINS_AGAINST = {
 # DATABASE
 # --------------------------------------------------
 
-DATABASE = "duels.db"
+DATABASE = "/data/duels.db"
 
 
 def initialize_database():
