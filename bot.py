@@ -616,7 +616,7 @@ async def stats(
     rank = get_player_rank(wins)
 
     usage = {
-        "⚔️ Offensive Magic": offensive,
+        "☄️ Offensive Magic": offensive,
         "🪶 Cunning Magic": cunning,
         "🛡️ Defensive Magic": defensive
     }
