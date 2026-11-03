@@ -664,7 +664,7 @@ async def stats(
     embed.add_field(
         name="Discipline Usage",
         value=(
-            f"⚔️ Offensive Magic: **{offensive}**\n"
+            f"☄️ Offensive Magic: **{offensive}**\n"
             f"🪶 Cunning Magic: **{cunning}**\n"
             f"🛡️ Defensive Magic: **{defensive}**"
         ),
